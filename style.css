@@ -1,15 +1,23 @@
-div {
-    display:flex;
-    justify-content: center;
+div{
+    
 }
 
-.gif{
-  
-    display: flex;
+.containter{display: flex;
+    
     justify-content: center;
+    align-items:center;}
+.gif{
+    flex-direction: column;
+    flex-basis: auto;
+
+    
+    margin:auto;
+   
 }
-.arrow{
-  
-    display: flex;
-    justify-content: right;
-}
+
+
+
+
+
+
+
